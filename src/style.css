@@ -1,0 +1,39 @@
+.card-body {
+  border: solid 1px #0000ff;
+}
+.row {
+  position: relative;
+  top: 100px;
+}
+form {
+  position: fixed;
+  right: 500px;
+  top: 100px;
+}
+
+input {
+  border-radius: 20px;
+  text-align: center;
+  border: solid 2px #ff007b;
+  font-style: italic;
+}
+
+body {
+  background: #9bf4d5;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 24px;
+}
+
+button {
+  border-radius: 20px;
+  margin: 0 auto;
+  position: fixed;
+  right: 550px;
+  top: 150px;
+}
