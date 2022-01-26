@@ -43,8 +43,6 @@ button {
   margin: 0 auto;
   text-align: center;
   font-size: 35px;
-}
-#bottom {
-  position: absolute;
+  position: fixed;
   bottom: 0px;
 }
