@@ -37,3 +37,8 @@ button {
   right: 550px;
   top: 150px;
 }
+
+.github {
+  display: block;
+  margin: 0 auto;
+}
