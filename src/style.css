@@ -40,6 +40,9 @@ button {
 
 .github {
   display: block;
+  margin: 0 auto;
   text-align: center;
-  font-size: 20px;
+  font-size: 35px;
+  position: absolute;
+  bottom: 0;
 }
