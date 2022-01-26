@@ -42,7 +42,7 @@ button {
   display: block;
   margin: 0 auto;
   text-align: center;
-  font-size: 35px;
-  position: fixed;
+  font-size: 25px;
+  position: absolute;
   bottom: 0px;
 }
